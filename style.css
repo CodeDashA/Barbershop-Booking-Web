@@ -98,7 +98,6 @@ h3 {
 }
 .form-footer #rem {
     transform: scale(1.5);
-    outline: 2px black solid;
 }
 .form-footer a {
     text-decoration: none;
